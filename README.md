@@ -2,6 +2,8 @@
 
 **WoT 2.3.1.2 #921 EU 오프라인판**의 차고와 전투 UI를 한글로 표시합니다. 차고에서 한글이 빈칸으로 보이던 글꼴 문제의 수정이 포함되어 있습니다.
 
+![한글 패치가 적용된 WoT 오프라인 차고 화면](docs/korean-garage.png)
+
 ## 설치
 
 1. 릴리스에서 `WoT-2.3.1.2-Korean.zip`을 내려받아 압축을 풉니다. [최신 릴리스](https://github.com/hillofsky/wot-2.3.1.2-korean-patch/releases/latest)
